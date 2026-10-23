@@ -27,3 +27,5 @@ class Solution {
 //second iteration will be 12 % 10 which is 2, reveres is 12, x = 1,
 //third 1 % 10 is 1, reversed will be 121, x = 0 and the loop will stop
 //in the negative the loop will not iterate because x is less than 0; so it will be false.
+
+//the runtime is O(log n) which is logarithmic runtime and it has a space complexity of O(1) constant space
